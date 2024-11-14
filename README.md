@@ -1,0 +1,1 @@
+# DaVinc-resolve
